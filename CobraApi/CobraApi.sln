@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobraApi", "CobraApi\CobraApi.csproj", "{3716D7CC-EE78-4435-A2C8-6DFCCFD30F26}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobraTest", "CobraTest\CobraTest.csproj", "{DE5124BF-B381-4D3E-9568-54A7767E8A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDataFunction", "UpdateDataFunction\UpdateDataFunction.csproj", "{8CE86EE3-8EC1-4C55-9227-80AB012673E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DE5124BF-B381-4D3E-9568-54A7767E8A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE5124BF-B381-4D3E-9568-54A7767E8A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE5124BF-B381-4D3E-9568-54A7767E8A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE86EE3-8EC1-4C55-9227-80AB012673E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE86EE3-8EC1-4C55-9227-80AB012673E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE86EE3-8EC1-4C55-9227-80AB012673E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE86EE3-8EC1-4C55-9227-80AB012673E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
